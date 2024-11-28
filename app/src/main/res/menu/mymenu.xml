@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Rate_Us"
+        android:id="@+id/rates"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item
+        android:title="share"
+        android:id="@+id/share"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item
+        android:title="Privacy"
+        android:id="@+id/Privacy"
+        app:showAsAction="collapseActionView"
+       />
+    <item
+        android:title="Exit"
+        android:id="@+id/exit"
+        app:showAsAction="collapseActionView"
+        />
+
+</menu>

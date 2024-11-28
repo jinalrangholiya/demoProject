@@ -1,0 +1,35 @@
+
+<resources>
+    <string name="app_name">demo</string>
+    <string name="android">Android</string>
+    <string name="Adesc1">     Android is Open source Linux based Operating System.
+        \n\n\nAndroid is a mobile operating system based on a modified version of the Linux kernel and other open source software,
+        designed primarily for touchscreen mobile devices such as smartphones and tablets.
+    \n \nAndroid is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google.\n\n</string>
+
+
+    <string name="cdesc"> Cpp is object oriented programming language.
+        \n\n\n\nC++ is a popular programming language.  C++ is used to create computer programs, and is one of the most used language in game development.
+        \n\n C++ was designed with an orientation toward systems programming and embedded, resource-constrained software and large systems, with performance, efficiency, and flexibility of use as its design highlights.
+    \n\n  C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications .\n\n</string>
+
+
+    <string name="jdesc1"> java is high level object oriented programming language.\n\n\nJava is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
+        \n\nIt is a general-purpose programming language intended to let programmers write once,run anywhere.
+       \n\n Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture.
+        The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them.\n\n
+    </string>
+
+    <string name="pdesc1">   PHP HyperText Preprocessor.\nPHP is server scripting language.\n\n\nPHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft ASP.
+    \n\n  PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.
+       On a web server, the result of the interpreted and executed PHP code – which may be any type of data, such as generated HTML or binary image data – would form the whole or part of an HTTP response.\n\n</string>
+
+    <string name="pydesc1">  python is open source high level programming language.\n\n\nPython is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.
+            \n\n     Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.
+        It is often described as a batteries included language due to its comprehensive standard library.\n\n</string>
+
+    <string name="wdesc1">   Wordpress is a free and open source content management system. \n\n\n WordPress is a free and open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database with supported HTTPS.
+        Features include a plugin architecture and a template system, referred to within WordPress as Themes.
+    \n\n  WordPress was originally created as a blog-publishing system but has evolved to support other web content types including more traditional mailing lists and forums, media galleries, membership sites, learning management systems (LMS) and online stores.
+       WordPress is a factory that makes webpages  is a core analogy designed to clarify the functions of WordPress: it stores content and enables a user to create and publish webpages, requiring nothing beyond a domain and a hosting service.\n\n</string>
+</resources>
